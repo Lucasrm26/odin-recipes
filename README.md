@@ -1,4 +1,5 @@
 # My First Project
+[![The Odin Project](https://img.shields.io/badge/BUILT_WITH-The_Odin_Project-blue)](https://www.theodinproject.com/)
 
 ## Description
 A website presenting three delicious and very popular Brazilian recipes.  
