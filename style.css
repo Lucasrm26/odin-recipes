@@ -5,3 +5,35 @@ html {
 *, *:before, *:after {
     box-sizing: inherit;
 }
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    margin: 32px auto;
+}
+
+.container {
+    width: 1800px;
+    text-align: center;
+    margin: 16px auto;
+}
+
+.recipe-one,
+.recipe-two,
+.recipe-three {
+    font-size: 1rem;
+    display: inline-block;
+    width: 350px;
+    height: 550px;
+    margin: 16px;
+}
+
+.attribution {
+    font-size: 12px;
+}
+
+.ingredients,
+.instructions {
+    margin: auto 700px;
+    text-align: left;
+}
